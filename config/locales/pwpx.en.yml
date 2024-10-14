@@ -175,6 +175,9 @@ en:
     navbar:
       branding: Branding
       edit_policy: Policy
+    push_expiration:
+      will_expire_in: 'The file download links above will expire in:'
+      you_can_refresh: You can refresh the page to regenerate new download links if views remain.
     pw_generator_modal:
       cancel: Cancel
       configure: Configure Password Generation
